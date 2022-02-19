@@ -1,2 +1,2 @@
 # Breaking-KPLC-Token-Code-using-Machine-Learning
-FFF
+KPLC Tokens are generated when you purchase power from the Kenya Power and Lightining Company. It functions in a similar manner to buying a recharge card from a Mobile Provider. This implies a prepaid system. This project is an attempt at breaking the algorithm that generates the code using machine learning. The text messages one receives after a purchase are organized into a dataset that is then analyzed using association mining techniques.
